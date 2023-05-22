@@ -15,3 +15,14 @@ web-build/
 
 # Temporary files created by Metro to check the health of the file watcher
 .metro-health-check*
+
+##
+app.json
+
+# Ignore Node.js dependencies
+package-lock.json
+package.json
+
+
+# Ignore Babel configuration
+babel.config.js
